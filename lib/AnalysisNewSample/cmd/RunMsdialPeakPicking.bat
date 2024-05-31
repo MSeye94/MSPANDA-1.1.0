@@ -1,0 +1,1 @@
+"D:\mouhamed\Dev SRC\APPS\MSPANDA-1.1.0-portable\shiny\lib\MSDIAL\MSDIAL ver.4.80 Windows\MsdialConsoleApp.exe" lcmsdda -i "C:/Users/mouhamed.seye.ADN/Desktop/Test" -o "C:/Users/mouhamed.seye.ADN/Desktop/Test/Analysis new samples-last-test_2024-05-30 15-39-37.266047/Massif-List" -m "data/References/Reference plasma dialyse/peakPicking_Parameters.txt"

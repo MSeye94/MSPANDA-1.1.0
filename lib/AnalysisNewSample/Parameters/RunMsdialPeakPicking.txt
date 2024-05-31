@@ -1,0 +1,1 @@
+directory_MSDIAL.exe lcmsdda -i inputfiles -o outputfiles -m param

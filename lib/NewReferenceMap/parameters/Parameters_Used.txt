@@ -1,0 +1,42 @@
+# Reference map : Type-ref
+
+## Parameters used
+
+# Data collection
+Data type (MS1) : MS1_type
+Data type (MS/MS) : MS2_type
+Ion mode : ion
+CE-time begin (min) : rt_begin
+CE-time end (min): rt_end
+MS1 mass range begin (Da) : mz_range_begin
+MS1 mass range end (Da) : mz_range_end
+
+# Mass accuracy(centroid parameter)
+MS1 tolerance (Da) : mz_tolerance_centroid_MS1
+MS2 tolerance (Da) : mz_tolerance_centroid_MS2
+
+# Peak detection parameters
+Maximum charged number : maxCharge
+Minimum peak width (scan) : min_Peakwidth
+Minimum peak height (amplitude) : min_PeakHeight
+Mass slice width (Da) : mass_slice_width
+Minimum peaks per massif : min_PeaksMassif
+
+# Adduct ion setting
+Adduct list: [M+H]+ 
+
+# CE-time corection
+## Defaut parameters xcms (the best, don't need to modify)
+
+# Grouping of chromatographic peaks within and between samples
+## Matching massif isotopic
+Bandwidth (CE-time tolerance) (second) : bw
+Mass tolerance (Grouping by massif) (Da):mass_tolerance
+
+# Match reference map
+CE-time tolerance (second) : rt_tolerance 
+
+# Sample normalization
+Minimum normalizer : min_iset
+Difference in intensity from normalizers : cutrat
+

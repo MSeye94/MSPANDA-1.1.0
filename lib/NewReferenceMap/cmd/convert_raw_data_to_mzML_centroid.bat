@@ -1,0 +1,1 @@
+"D:\mouhamed\Dev SRC\APPS\MSPANDA-1.1.0-portable\shiny\lib\MSconverter\pwiz_bin_windows\msconvert.exe" "C:/Users/mouhamed.seye.ADN/Desktop/Test/*" --filter "peakPicking true 1-" -o "C:/Users/mouhamed.seye.ADN/Desktop/Test/New project_2024-05-31 12-53-28.269896/mzML files"

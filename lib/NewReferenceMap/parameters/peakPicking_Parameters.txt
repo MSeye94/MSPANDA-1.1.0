@@ -1,0 +1,34 @@
+#Data type
+MS1 data type: Profile
+MS2 data type: Profile
+Ion mode: Positive
+Target: Metablomics
+
+#Data collection parameters
+Retention time begin: 0
+Retention time end: 100
+Mass range begin: 350
+Mass range end: 3000
+
+#Centroid parameters
+MS1 tolerance for centroid: 0.01
+MS2 tolerance for centroid: 0.025
+
+#Isotope recognition
+Maximum charged number:	8
+
+#Data processing
+Number of threads: 5
+
+#Peak detection parameters
+Smoothing method: LinearWeightedMovingAverage
+Smoothing level: 3
+Minimum peak width: 4
+Minimum peak height:1000
+Mass slice width: 0.05
+
+#Deconvolution parameters
+Sigma window value: 0.5
+
+#Adduct list
+Adduct list: [M+H]+,[M+Na]+,[M+K]+

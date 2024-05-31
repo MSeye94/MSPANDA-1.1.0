@@ -1,0 +1,34 @@
+#Data type
+MS1 data type: MS1_type
+MS2 data type: MS2_type
+Ion mode: ion
+Target: Metablomics
+
+#Data collection parameters
+Retention time begin: rt_begin
+Retention time end: rt_end
+Mass range begin: mz_range_begin
+Mass range end: mz_range_end
+
+#Centroid parameters
+MS1 tolerance for centroid: mz_tolerance_centroid_MS1
+MS2 tolerance for centroid: mz_tolerance_centroid_MS2
+
+#Isotope recognition
+Maximum charged number:	maxCharge
+
+#Data processing
+Number of threads: number_threads
+
+#Peak detection parameters
+Smoothing method: LinearWeightedMovingAverage
+Smoothing level: 3
+Minimum peak width: min_Peakwidth
+Minimum peak height:min_PeakHeight
+Mass slice width: mass_slice_width
+
+#Deconvolution parameters
+Sigma window value: 0.5
+
+#Adduct list
+Adduct list: [M+H]+

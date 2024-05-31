@@ -1,0 +1,22 @@
+# Processing parameters
+
+# Data collection
+Retention time begin(min):rt_begin
+Retention time end(min):rt_end
+Mass range begin:mz_range_begin
+Mass range end:mz_range_end
+
+# Peak detection
+MS1 tolerance for centroid:mz_tolerance_centroid_MS1
+MS2 tolerance for centroid:mz_tolerance_centroid_MS2
+Maximum charged number:maxCharge
+Minimum peak width:min_Peakwidth
+Minimum peak height:min_PeakHeight
+Mass slice width:mass_slice_width
+Minimum peaks per massif:min_PeaksMassif
+Adduct list:[M+H]+
+Ion mode:positive
+
+# Grouping 
+Bandwidth (CE-time tolerance) (second):bw
+Mass tolerance (Grouping by massif) (Da):mass_tolerance
