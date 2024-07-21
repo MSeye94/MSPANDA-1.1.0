@@ -12,14 +12,17 @@ This reference map is then used to identify a set of intensity-stable particles.
 2. Analysis new sample: a second part that allows to detect, match and normalize the peptides or metabolites of a new sample on the reference map.
 
 ## How to launch the MSPANDA app
-###  Prerequisites:
-1. Download and install R and RStudio Desktop.
-2. Download the MSPANDA app from the GitHub page
-3. Download and install the following applications:
-	MSDIAL ver.4.80 Windows: https://zenodo.org/records/12540725
-	dotnet-sdk-6.0.301-win-x64.exe: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
-4. Change Vautre Computer Locale to: USA
+### Prérequis :
+1. Télécharger et installer R et RStudio Desktop.
+2. Télécharger l'application MSPANDA depuis la page du GitHub
+3. Télécharger les applications suivants :
+	MSDIAL ver.4.80 Windows : https://zenodo.org/records/12540725
+	dotnet-sdk-6.0.301-win-x64.exe : https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+4. Changer les paramètres régionaux de vautre ordinateur en : Etats-Unis
 
-### Launch the MSPANDA application:
-1. Unzip the downloaded MSPANDA application.
-2. Launch the MSPANDA-1.1.0.Rproj file
+### Lancer l'application MSPANDA :
+1. Installer l'application Microsoft dotnet-sdk-6.0.301-win-x64.exe.
+2. Dézipper l'application MSPANDA-1.1.0 téléchargée.
+3. Dézipper l'application MSDIAL ver.4.80 Windows, puis crées un dossier (MSDIAL) dans MSPANDA-1.1.0\lib et copier dedans "MSDIAL ver.4.80 Windows".
+4. Lancer le fichier MSPANDA-1.1.0.Rproj : MSPANDA-1.1.0\MSPANDA-1.1.0.Rproj
+
