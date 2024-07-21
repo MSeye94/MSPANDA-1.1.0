@@ -11,7 +11,7 @@ to look for possible biomarkers associated with a pathology, a condition, a trea
 This reference map is then used to identify a set of intensity-stable particles.
 2. Analysis new sample: a second part that allows to detect, match and normalize the peptides or metabolites of a new sample on the reference map.
 
-## How to launch the MSPANDA app
+## How to launch MSPANDA-1.1.0
 ### Prerequisites:
 1. Download and install R and RStudio Desktop.
 2. Download the MSPANDA app from the GitHub page.
