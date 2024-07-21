@@ -10,3 +10,6 @@ to look for possible biomarkers associated with a pathology, a condition, a trea
 1. New reference map: allows the development of a new peptide or metabolite reference map of a given biological liquid.
 This reference map is then used to identify a set of intensity-stable particles.
 2. Analysis new sample: a second part that allows to detect, match and normalize the peptides or metabolites of a new sample on the reference map.
+
+## How to launch the MSPANDA app
+### 1. Télécharger l'application shiny
