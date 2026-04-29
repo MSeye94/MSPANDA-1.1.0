@@ -24,5 +24,5 @@ This reference map is then used to identify a set of intensity-stable particles.
 1. Install Microsoft dotnet-sdk-6.0.301-win-x64.exe.
 2. Unzip the downloaded MSPANDA-1.1.0 application.
 3. Unzip the MSDIAL ver.4.80 Windows application, then create a folder (MSDIAL) in MSPANDA-1.1.0 lib and copy in "MSDIAL ver.4.80 Windows".
-4. Launch MSPANDA-1.1.0.Rproj: MSPANDA-1.1.0 MSPANDA-1.1.0.Rproj.
+4. Launch MSPANDA-1.1.0.Rproj: MSPANDA-1.1.0/MSPANDA-1.1.0.Rproj.
 
